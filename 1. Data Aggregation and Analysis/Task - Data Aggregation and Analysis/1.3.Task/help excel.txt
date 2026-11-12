@@ -1,0 +1,8 @@
+Overview of formulas in Excel:
+https://support.microsoft.com/en-us/excel/get-started/overview-of-formulas-in-excel
+
+Sort data in an Excel worksheet:
+https://support.microsoft.com/en-us/excel/get-started-with-excel/quick-start-sort-data-in-an-excel-worksheet
+
+Filter data in a range or table in Excel:
+http://support.microsoft.com/en-us/excel/get-started/filter-data-in-a-range-or-table-in-excel
